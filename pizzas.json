@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "spices": [
     "persillade",
     "câpres",
@@ -8,127 +8,102 @@
   ],
   "ingredients": {
     "tomate": {
-      "qty": 80,
       "unit": "g",
       "pack": 400
     },
     "mozzarella": {
-      "qty": 100,
       "unit": "g",
       "pack": 250
     },
     "jambon blanc": {
-      "qty": 70,
       "unit": "g",
       "pack": 140
     },
     "chèvre": {
-      "qty": 70,
       "unit": "g",
       "pack": 180
     },
     "emmental": {
-      "qty": 70,
       "unit": "g",
       "pack": 200
     },
     "gorgonzola": {
-      "qty": 50,
       "unit": "g",
       "pack": 150
     },
     "crème": {
-      "qty": 60,
       "unit": "g",
       "pack": 200
     },
     "ravioles": {
-      "qty": 100,
       "unit": "g",
       "pack": 240
     },
     "lardons": {
-      "qty": 70,
       "unit": "g",
       "pack": 200
     },
     "viande hachée": {
-      "qty": 90,
       "unit": "g",
       "pack": 250
     },
     "aubergine": {
-      "qty": 70,
       "unit": "g",
       "pack": 300
     },
     "anchois": {
-      "qty": 35,
       "unit": "g",
       "pack": 50
     },
     "œuf": {
-      "qty": 1,
       "unit": "pièce",
       "pack": 6
     },
     "merguez": {
-      "qty": 80,
       "unit": "g",
       "pack": 300
     },
     "poivrons": {
-      "qty": 60,
       "unit": "g",
       "pack": 300
     },
     "poulet émincé": {
-      "qty": 100,
       "unit": "g",
       "pack": 250
     },
     "saumon": {
-      "qty": 80,
       "unit": "g",
       "pack": 200
     },
     "citron": {
-      "qty": 0.25,
       "unit": "pièce",
       "pack": 1
     },
     "chorizo": {
-      "qty": 60,
       "unit": "g",
       "pack": 200
     },
     "poivron": {
-      "qty": 60,
       "unit": "g",
       "pack": 200
     },
     "mortadelle": {
-      "qty": 80,
       "unit": "g",
       "pack": 150
     },
     "burrata": {
-      "qty": 1,
       "unit": "pièce",
       "pack": 1
     },
     "chiffonnade jambon cru": {
-      "qty": 60,
       "unit": "g",
       "pack": 100
     },
     "copeaux parmesan": {
-      "qty": 30,
       "unit": "g",
       "pack": 100
     },
     "roquette": {
-      "qty": 25,
       "unit": "g",
       "pack": 125
     }
@@ -137,126 +112,291 @@
     [
       "Basique",
       [
-        "tomate",
-        "mozzarella",
-        "jambon blanc"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "jambon blanc",
+          "qty": 70
+        }
       ]
     ],
     [
       "3 Fromages",
       [
-        "tomate",
-        "chèvre",
-        "emmental",
-        "gorgonzola"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "chèvre",
+          "qty": 70
+        },
+        {
+          "name": "emmental",
+          "qty": 70
+        },
+        {
+          "name": "gorgonzola",
+          "qty": 50
+        }
       ]
     ],
     [
       "Ravioles",
       [
-        "crème",
-        "ravioles",
-        "emmental",
-        "lardons"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "ravioles",
+          "qty": 100
+        },
+        {
+          "name": "emmental",
+          "qty": 70
+        },
+        {
+          "name": "lardons",
+          "qty": 70
+        }
       ]
     ],
     [
       "Viande",
       [
-        "tomate",
-        "viande hachée",
-        "aubergine",
-        "persillade"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "viande hachée",
+          "qty": 90
+        },
+        {
+          "name": "aubergine",
+          "qty": 70
+        },
+        {
+          "name": "persillade",
+          "qty": null
+        }
       ]
     ],
     [
       "Napolitaine",
       [
-        "tomate",
-        "mozzarella",
-        "anchois",
-        "câpres"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "anchois",
+          "qty": 35
+        },
+        {
+          "name": "câpres",
+          "qty": null
+        }
       ]
     ],
     [
       "Calzone",
       [
-        "tomate",
-        "mozzarella",
-        "jambon blanc",
-        "œuf"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "jambon blanc",
+          "qty": 70
+        },
+        {
+          "name": "œuf",
+          "qty": 1
+        }
       ]
     ],
     [
       "Orientale",
       [
-        "tomate",
-        "mozzarella",
-        "merguez",
-        "poivrons"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "merguez",
+          "qty": 80
+        },
+        {
+          "name": "poivrons",
+          "qty": 60
+        }
       ]
     ],
     [
       "Poulet",
       [
-        "crème",
-        "poulet émincé",
-        "mozzarella",
-        "curry"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "poulet émincé",
+          "qty": 100
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "curry",
+          "qty": null
+        }
       ]
     ],
     [
       "Saumon",
       [
-        "crème",
-        "mozzarella",
-        "saumon",
-        "citron"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "saumon",
+          "qty": 80
+        },
+        {
+          "name": "citron",
+          "qty": 0.25
+        }
       ]
     ],
     [
       "Chèvre Miel",
       [
-        "crème",
-        "chèvre",
-        "miel"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "chèvre",
+          "qty": 70
+        },
+        {
+          "name": "miel",
+          "qty": null
+        }
       ]
     ],
     [
       "Lardons",
       [
-        "crème",
-        "lardons",
-        "emmental",
-        "mozzarella"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "lardons",
+          "qty": 70
+        },
+        {
+          "name": "emmental",
+          "qty": 70
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        }
       ]
     ],
     [
       "Chorizo",
       [
-        "tomate",
-        "chorizo",
-        "poivron",
-        "mozzarella",
-        "emmental"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "chorizo",
+          "qty": 60
+        },
+        {
+          "name": "poivron",
+          "qty": 60
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "emmental",
+          "qty": 70
+        }
       ]
     ],
     [
       "Mortadella",
       [
-        "crème",
-        "mortadelle",
-        "burrata"
+        {
+          "name": "crème",
+          "qty": 60
+        },
+        {
+          "name": "mortadelle",
+          "qty": 80
+        },
+        {
+          "name": "burrata",
+          "qty": 1
+        }
       ]
     ],
     [
       "Parme",
       [
-        "tomate",
-        "chiffonnade jambon cru",
-        "mozzarella",
-        "copeaux parmesan",
-        "roquette"
+        {
+          "name": "tomate",
+          "qty": 80
+        },
+        {
+          "name": "chiffonnade jambon cru",
+          "qty": 60
+        },
+        {
+          "name": "mozzarella",
+          "qty": 100
+        },
+        {
+          "name": "copeaux parmesan",
+          "qty": 30
+        },
+        {
+          "name": "roquette",
+          "qty": 25
+        }
       ]
     ]
   ]
