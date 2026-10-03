@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#b43b2d"/>
+<circle cx="256" cy="256" r="174" fill="#f4c45d" stroke="#fff3dc" stroke-width="18"/>
+<path d="M256 256 397 155a174 174 0 0 1-9 218z" fill="#f6d77c"/>
+<path d="M256 256 397 155" stroke="#8b2c22" stroke-width="16" stroke-linecap="round"/>
+<circle cx="252" cy="155" r="24" fill="#c93428"/><circle cx="327" cy="224" r="25" fill="#c93428"/><circle cx="305" cy="327" r="23" fill="#c93428"/><circle cx="184" cy="287" r="25" fill="#c93428"/>
+<path d="M167 185c18-30 50-32 72-11-23 3-39 14-48 34zM341 278c18-27 47-29 67-10-21 3-35 13-44 31z" fill="#397b3d"/>
+<text x="256" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="white">PIZZA</text>
+</svg>
