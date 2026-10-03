@@ -1,0 +1,8 @@
+{
+  "name": "Pizza Party",
+  "short_name": "Pizza Party",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e9",
+  "theme_color": "#29231f"
+}
