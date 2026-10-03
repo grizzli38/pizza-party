@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "spices": [
+    "persillade",
+    "câpres",
+    "curry",
+    "miel"
+  ],
+  "ingredients": {
+    "tomate": {
+      "qty": 80,
+      "unit": "g",
+      "pack": 400
+    },
+    "mozzarella": {
+      "qty": 100,
+      "unit": "g",
+      "pack": 250
+    },
+    "jambon blanc": {
+      "qty": 70,
+      "unit": "g",
+      "pack": 140
+    },
+    "chèvre": {
+      "qty": 70,
+      "unit": "g",
+      "pack": 180
+    },
+    "emmental": {
+      "qty": 70,
+      "unit": "g",
+      "pack": 200
+    },
+    "gorgonzola": {
+      "qty": 50,
+      "unit": "g",
+      "pack": 150
+    },
+    "crème": {
+      "qty": 60,
+      "unit": "g",
+      "pack": 200
+    },
+    "ravioles": {
+      "qty": 100,
+      "unit": "g",
+      "pack": 240
+    },
+    "lardons": {
+      "qty": 70,
+      "unit": "g",
+      "pack": 200
+    },
+    "viande hachée": {
+      "qty": 90,
+      "unit": "g",
+      "pack": 250
+    },
+    "aubergine": {
+      "qty": 70,
+      "unit": "g",
+      "pack": 300
+    },
+    "anchois": {
+      "qty": 35,
+      "unit": "g",
+      "pack": 50
+    },
+    "œuf": {
+      "qty": 1,
+      "unit": "pièce",
+      "pack": 6
+    },
+    "merguez": {
+      "qty": 80,
+      "unit": "g",
+      "pack": 300
+    },
+    "poivrons": {
+      "qty": 60,
+      "unit": "g",
+      "pack": 300
+    },
+    "poulet émincé": {
+      "qty": 90,
+      "unit": "g",
+      "pack": 250
+    },
+    "saumon": {
+      "qty": 80,
+      "unit": "g",
+      "pack": 200
+    },
+    "citron": {
+      "qty": 0.25,
+      "unit": "pièce",
+      "pack": 1
+    },
+    "chorizo": {
+      "qty": 60,
+      "unit": "g",
+      "pack": 200
+    },
+    "poivron": {
+      "qty": 60,
+      "unit": "g",
+      "pack": 200
+    },
+    "mortadelle": {
+      "qty": 80,
+      "unit": "g",
+      "pack": 150
+    },
+    "burrata": {
+      "qty": 1,
+      "unit": "pièce",
+      "pack": 1
+    },
+    "chiffonnade jambon cru": {
+      "qty": 60,
+      "unit": "g",
+      "pack": 100
+    },
+    "copeaux parmesan": {
+      "qty": 30,
+      "unit": "g",
+      "pack": 100
+    },
+    "roquette": {
+      "qty": 25,
+      "unit": "g",
+      "pack": 125
+    }
+  },
+  "pizzas": [
+    [
+      "Basique",
+      [
+        "tomate",
+        "mozzarella",
+        "jambon blanc"
+      ]
+    ],
+    [
+      "3 Fromages",
+      [
+        "tomate",
+        "chèvre",
+        "emmental",
+        "gorgonzola"
+      ]
+    ],
+    [
+      "Ravioles",
+      [
+        "crème",
+        "ravioles",
+        "emmental",
+        "lardons"
+      ]
+    ],
+    [
+      "Viande",
+      [
+        "tomate",
+        "viande hachée",
+        "aubergine",
+        "persillade"
+      ]
+    ],
+    [
+      "Napolitaine",
+      [
+        "tomate",
+        "mozzarella",
+        "anchois",
+        "câpres"
+      ]
+    ],
+    [
+      "Calzone",
+      [
+        "tomate",
+        "mozzarella",
+        "jambon blanc",
+        "œuf"
+      ]
+    ],
+    [
+      "Orientale",
+      [
+        "tomate",
+        "mozzarella",
+        "merguez",
+        "poivrons"
+      ]
+    ],
+    [
+      "Poulet",
+      [
+        "crème",
+        "poulet émincé",
+        "mozzarella",
+        "curry"
+      ]
+    ],
+    [
+      "Saumon",
+      [
+        "crème",
+        "mozzarella",
+        "saumon",
+        "citron"
+      ]
+    ],
+    [
+      "Chèvre Miel",
+      [
+        "crème",
+        "chèvre",
+        "miel"
+      ]
+    ],
+    [
+      "Lardons",
+      [
+        "crème",
+        "lardons",
+        "emmental",
+        "mozzarella"
+      ]
+    ],
+    [
+      "Chorizo",
+      [
+        "tomate",
+        "chorizo",
+        "poivron",
+        "mozzarella",
+        "emmental"
+      ]
+    ],
+    [
+      "Mortadella",
+      [
+        "crème",
+        "mortadelle",
+        "burrata"
+      ]
+    ],
+    [
+      "Parme",
+      [
+        "tomate",
+        "chiffonnade jambon cru",
+        "mozzarella",
+        "copeaux parmesan",
+        "roquette"
+      ]
+    ]
+  ]
+}
